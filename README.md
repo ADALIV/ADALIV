@@ -48,12 +48,12 @@
 
 `2020`
 <ul>
-  <li>단국대학교 모바일시스템공학과 (2020 ~)</li>
+  <li>단국대학교 모바일시스템공학과 (2020.3 ~ )</li>
 </ul>
 
 `2021`
 <ul>
-  <li>25사단 본부 경비근무대 (2021 ~ 2022)</li>
+  <li>25사단 본부 경비근무대 (2021.04 ~ 2022.10)</li>
 </ul>
 
 `2023`
@@ -63,10 +63,9 @@
 
 `2024`
 <ul>
-  <li><strong>모바일시스템공학과 ) </strong>학과 서버 관리 (7. 3 ~ 9. 30)</li><br>
-  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=794802">해커톤 경진대회</a>  참가 (11. 20 ~ 11. 28)</li><br>
-  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-5?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=792994">SWExpert</a> 학교 서버 관리 (11. 1 ~ )<br>
-</ul><br>
+  <li><strong>모바일시스템공학과 ) </strong>학과 서버 관리 (7.03 ~ 9.30)</li><br>
+  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=794802">해커톤 경진대회</a>  참가 (11.20 ~ 11.28)</li><br>
+  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-5?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=792994">SWExpert</a> 학교 서버 관리 (11.01 ~ )<br>
 </ul>
 
 ---
