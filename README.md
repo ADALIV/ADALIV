@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
+
 ---
 ### 📈 &nbsp; Career
 
@@ -18,6 +19,7 @@
 - #### 🖥️ Department Server Management (Ongoing)  
   &nbsp;&nbsp;&nbsp;&nbsp;**Dankook University** | *July 2024 - Present*  
   &nbsp;&nbsp;&nbsp;&nbsp;- Overseeing department-specific server operations, troubleshooting, and system updates.
+
 
 ---
 ### 🛠 &nbsp;Tech Stack
@@ -34,6 +36,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 
+
 ---
 ### 👨‍💻 &nbsp;Language
 
@@ -43,6 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
 
 ---
 ### 📋 &nbsp; Experience
