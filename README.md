@@ -75,7 +75,8 @@
 
 `2025`
 <ul>
-  <li><strong>캡스톤 ) </strong><a href="https://www.cisco.com/c/m/ko_kr/innovation-challenge-2025.html#~%EC%88%98%EC%83%81%EC%9E%90%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4">2025 시스코 이노베이션 챌린지</a> Best Innovation 수상 (01.17 ~ 02.14)</li><br>
+  <li><strong>아이디어톤 ) </strong><a href="https://www.cisco.com/c/m/ko_kr/innovation-challenge-2025.html#~%EC%88%98%EC%83%81%EC%9E%90%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4">2025 시스코 이노베이션 챌린지</a> Best Innovation 수상 (01.17 ~ 02.14)</li><br>
+  <li><strong>해커톤 ) </strong><a href="https://www.cisco.com/c/m/ko_kr/innovation-challenge-2025.html#~%EC%88%98%EC%83%81%EC%9E%90%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4">2025 시스코 이노베이션 챌린지</a> 우승&우수상 (04.09 ~ 04.29)</li><br>
 </ul>
 
 
@@ -86,6 +87,8 @@
 | **Cloud High-End Computing** | 소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계 | [보기](https://drive.google.com/file/d/1PcFbpMsb9M-gVB6770LbZzM34q0fqudV/view?usp=sharing) |
 | **Sur문** | 설문조사 중개 플랫폼 | [보기](https://drive.google.com/file/d/1hU0vMIAFgJI8BTidjd3k-kN3ctFwR5df/view?usp=sharing) |
 | **나이조조** | 응급상황 실시간 지원과 의료 효율화를 이끄는 AI플랫폼 | [보기](https://drive.google.com/file/d/1eQsvd_kFvS6v54gJZYXJSAZoGGlJIfl6/view?usp=sharing) |
+| **나이조조** | 클라우드, AI 기반 통합 의료 시스템 | [보기](https://drive.google.com/file/d/17WElboBsThnRPM8ZbTdW25ObgiB5LVSm/view?usp=sharing) |
+| **safeco** | 스마트 안전모 기반 실시간 응급대응 시스템 | [보기](https://drive.google.com/file/d/1vA0iWmWpDaiFQmWQ5nNhjG1uLXRVzOOS/view?usp=sharing) |
 
 
 
