@@ -4,8 +4,8 @@
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Minuk Cho</h1>
 
   <p align="center">
-    I'm a student in the Mobile Systems Engineering department at Dankook University.<br><br>
-    I am mainly interested in cloud computing such as Docker and Kubernetes.<br><br>
+    I’m a student in the Mobile Systems Engineering department at Dankook University.<br><br>
+    I am mainly interested in cloud computing, such as Docker and Kubernetes, as well as hardware, particularly in sensing technologies.<br><br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </p>
@@ -18,15 +18,15 @@
     <li>
       <strong>🌐 School Server Management (Ongoing)</strong> - Dankook University | <em>November 2024 - Present</em>
       <ul style="margin-top: 5px;">
-        <li>- Managing and maintaining school servers</li>
-        <li>- Ensuring optimal performance and security</li>
+        <li> Managing and maintaining school servers</li>
+        <li> Ensuring optimal performance and security</li>
       </ul>
     </li>
     <li>
       <strong>🖥️ Department Server Management (Ongoing)</strong> - Dankook University | <em>July 2024 - Present</em>
       <ul style="margin-top: 5px;">
-        <li>- Overseeing department-specific server operations</li>
-        <li>- Troubleshooting and system updates</li>
+        <li> Overseeing department-specific server operations</li>
+        <li> Troubleshooting and system updates</li>
       </ul>
     </li>
   </ul>
