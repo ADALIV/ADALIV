@@ -1,6 +1,6 @@
 <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=1000&section=header&text=Hello!&fontSize=90" alt="header" style="width: 100%; border-radius: 15px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8D7A0&height=300&width=1000&section=header&text=Hello!&fontSize=90" alt="header" style="width: 100%; border-radius: 15px;">
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Minuk Cho</h1>
 
   <p align="center">
