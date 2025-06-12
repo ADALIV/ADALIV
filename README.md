@@ -51,7 +51,7 @@
   <!-- 2023 -->
   <h4>2023</h4>
   <ul>
-    <li>PHP를 이용한 커뮤니티 웹 사이트</li>
+    <li>PHP를 이용한 커뮤니티 웹 사이트 데모 개발</li>
   </ul>
 
   <!-- 2024 -->
@@ -110,29 +110,34 @@
       <th>보기</th>
     </tr>
     <tr>
-      <td>Cloud High-End Computing</td>
+      <td>캡스톤</td>
       <td>소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계</td>
       <td><a href="https://drive.google.com/file/d/1PcFbpMsb9M-gVB6770LbZzM34q0fqudV/view?usp=sharing">보기</a></td>
     </tr>
     <tr>
-      <td>Sur문</td>
+      <td>캡스톤</td>
       <td>설문조사 중개 플랫폼</td>
       <td><a href="https://drive.google.com/file/d/1hU0vMIAFgJI8BTidjd3k-kN3ctFwR5df/view?usp=sharing">보기</a></td>
     </tr>
     <tr>
-      <td>나이조조</td>
-      <td>응급상황 실시간 지원과 의료 효율화를 이끄는 AI플랫폼</td>
-      <td><a href="https://drive.google.com/file/d/1eQsvd_kFvS6v54gJZYXJSAZoGGlJIfl6/view?usp=sharing">보기</a></td>
-    </tr>
-    <tr>
-      <td>나이조조</td>
+      <td>시스코 이노베이션 챌린지</td>
       <td>클라우드, AI 기반 통합 의료 시스템</td>
       <td><a href="https://drive.google.com/file/d/17WElboBsThnRPM8ZbTdW25ObgiB5LVSm/view?usp=sharing">보기</a></td>
     </tr>
     <tr>
-      <td>safeco</td>
+      <td>시스코 이노베이션 챌린지</td>
       <td>스마트 안전모 기반 실시간 응급대응 시스템</td>
       <td><a href="https://drive.google.com/file/d/1vA0iWmWpDaiFQmWQ5nNhjG1uLXRVzOOS/view?usp=sharing">보기</a></td>
+    </tr>
+    <tr>
+      <td>캡스톤</td>
+      <td>낙상 감지 및 알림 시스템</td>
+      <td><a href="https://drive.google.com/file/d/1i-yrOSWyBVKzZTz1Fo_8ig6Chn7r4AWE/view?usp=sharing">보기</a></td>
+    </tr>
+    <tr>
+      <td>IoT 프로젝트</td>
+      <td>신호등 감지 자율주행 자동차</td>
+      <td><a href="">보기</a></td>
     </tr>
   </table>
 
