@@ -110,7 +110,7 @@
       <th>보기</th>
     </tr>
     <tr>
-      <td>캡스톤</td>
+      <td>해커톤</td>
       <td>소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계</td>
       <td><a href="https://drive.google.com/file/d/1PcFbpMsb9M-gVB6770LbZzM34q0fqudV/view?usp=sharing">보기</a></td>
     </tr>
