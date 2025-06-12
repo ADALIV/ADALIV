@@ -105,7 +105,7 @@
   <h3>📚 &nbsp; Projects</h3>
   <table>
     <tr>
-      <th>프로젝트명</th>
+      <th>분류</th>
       <th>설명</th>
       <th>보기</th>
     </tr>
