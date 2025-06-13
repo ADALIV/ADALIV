@@ -1,33 +1,22 @@
 <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8D7A0&height=300&width=1000&section=header&text=Hello!&fontSize=90" alt="header" style="width: 100%; border-radius: 15px;">
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Minuk Cho</h1>
-
-  <p align="center">
-    I’m a student in the Mobile Systems Engineering department at Dankook University.<br><br>
-    I am mainly interested in cloud computing, such as Docker and Kubernetes, as well as hardware, particularly in sensing technologies.<br><br>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  </p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8D7A0&height=300&width=1000&section=header&text=Minuk%27s%20Github&fontSize=50" alt="header" style="width: 100%; border-radius: 15px;">
+  
+  <h3>민욱 깃허브</h3>
   <hr>
-
+  
   <!-- Career -->
   <h3>📈 &nbsp; Career</h3>
+
   <ul>
     <li>
-      <strong>🌐 School Server Management (Ongoing)</strong> - Dankook University | <em>November 2024 - Present</em>
-      <ul style="margin-top: 5px;">
-        <li> Managing and maintaining school servers</li>
-        <li> Ensuring optimal performance and security</li>
-      </ul>
+      <strong>🌐 SW Expert 학교 서버 관리</strong><br>
+      단국대학교 &nbsp;|&nbsp; <em>2024년 7월 – 현재</em>
     </li>
+    <br>
     <li>
-      <strong>🖥️ Department Server Management (Ongoing)</strong> - Dankook University | <em>July 2024 - Present</em>
-      <ul style="margin-top: 5px;">
-        <li> Overseeing department-specific server operations</li>
-        <li> Troubleshooting and system updates</li>
-      </ul>
+      <strong>🖥️ 한국정보통신기술협회 인턴</strong><br>
+      TTA &nbsp;|&nbsp; <em>2025년 7월 – 현재</em>
     </li>
   </ul>
 
@@ -84,6 +73,8 @@
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
     <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00" alt="Google Colab">
+    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker">
+    <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
   </div>
 
   <hr>
