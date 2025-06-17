@@ -37,12 +37,6 @@
     <li>25사단 본부 경비근무대 (2021.04 ~ 2022.10)</li>
   </ul>
 
-  <!-- 2023 -->
-  <h4>2023</h4>
-  <ul>
-    <li>PHP를 이용한 커뮤니티 웹 사이트 데모 개발</li>
-  </ul>
-
   <!-- 2024 -->
   <h4>2024</h4>
   <ul>
@@ -128,7 +122,7 @@
     <tr>
       <td>IoT 프로젝트</td>
       <td>신호등 감지 자율주행 자동차</td>
-      <td><a href="">보기</a></td>
+      <td><a href="https://drive.google.com/file/d/1UTyI2EixbBvq402BeZo_nUKxLTT92K1c/view?usp=sharing">보기</a></td>
     </tr>
   </table>
 
