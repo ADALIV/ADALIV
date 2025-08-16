@@ -57,16 +57,6 @@
   <!-- Tech Stack -->
   <h3>🛠 &nbsp; Tech Stack</h3>
   <div>
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933" alt="Node.js">
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">
-    <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP">
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" alt="Django">
-    <br>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
-    <img src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00" alt="Google Colab">
     <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker">
     <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
   </div>
@@ -79,9 +69,6 @@
     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">
     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java">
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
   </div>
 
   <hr>
@@ -95,16 +82,6 @@
       <th>보기</th>
     </tr>
     <tr>
-      <td>해커톤</td>
-      <td>소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계</td>
-      <td><a href="https://drive.google.com/file/d/1PcFbpMsb9M-gVB6770LbZzM34q0fqudV/view?usp=sharing">보기</a></td>
-    </tr>
-    <tr>
-      <td>캡스톤</td>
-      <td>설문조사 중개 플랫폼</td>
-      <td><a href="https://drive.google.com/file/d/1hU0vMIAFgJI8BTidjd3k-kN3ctFwR5df/view?usp=sharing">보기</a></td>
-    </tr>
-    <tr>
       <td>시스코 이노베이션 챌린지</td>
       <td>클라우드, AI 기반 통합 의료 시스템</td>
       <td><a href="https://drive.google.com/file/d/17WElboBsThnRPM8ZbTdW25ObgiB5LVSm/view?usp=sharing">보기</a></td>
@@ -115,12 +92,12 @@
       <td><a href="https://drive.google.com/file/d/1vA0iWmWpDaiFQmWQ5nNhjG1uLXRVzOOS/view?usp=sharing">보기</a></td>
     </tr>
     <tr>
-      <td>캡스톤</td>
+      <td>프로젝트 캡스톤</td>
       <td>낙상 감지 및 알림 시스템</td>
       <td><a href="https://drive.google.com/file/d/1i-yrOSWyBVKzZTz1Fo_8ig6Chn7r4AWE/view?usp=sharing">보기</a></td>
     </tr>
     <tr>
-      <td>IoT 프로젝트</td>
+      <td>프로젝트 자동차</td>
       <td>신호등 감지 자율주행 자동차</td>
       <td><a href="https://drive.google.com/file/d/1UTyI2EixbBvq402BeZo_nUKxLTT92K1c/view?usp=sharing">보기</a></td>
     </tr>
